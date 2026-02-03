@@ -89,7 +89,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-muted-foreground">
           <div className="flex items-center gap-2">
             <span className="font-serif text-lg font-semibold text-foreground">Bloom</span>
-            <span>© 2024 All rights reserved.</span>
+            <span>© 2026 Brain<span style={{ color: '#fac72d' }}>t</span>isa. All rights reserved.</span>
           </div>
           <div className="flex gap-6">
             <Link to="/privacy" className="hover:text-coral transition-colors">Privacy Policy</Link>
